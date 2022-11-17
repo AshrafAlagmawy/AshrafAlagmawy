@@ -6,7 +6,7 @@
     <a href="https://www.instagram.com/ashrafemad"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/ashrafemad097/ashrafemad097/blob/main/profile-img.png" align="right" width="25%"/>
 
 I'm a software engineer who is interesting in problem solving and web development . 
 
