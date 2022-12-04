@@ -13,7 +13,7 @@
 
   <img src="https://github.com/ashrafemad097/ashrafemad097/blob/main/profile-img.png" align="right" width="25%"/>
 
-I'm a software engineer who is interesting in problem solving and web development, specially Back-end Development using PHP - Laravel . 
+I'm a software engineer who is interesting in problem solving and web development . 
 
 - :school: I am a `Junior` at [Faculty of Computers & Informatics at Fayoum University]
 - :technologist: I love using Software as a solution for every `Problem`.
