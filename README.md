@@ -17,6 +17,8 @@ I'm a software engineer who is interesting in problem solving and web developmen
 
 ## <picture><img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/about_me.gif" width = 50px></picture> About me
 
+<picture> <img align="right" src="https://github.com/ashrafemad097/ashrafemad097/blob/main/Right_Side.gif" width = 250px></picture>
+
 <br><br><br>
 
 - :school: I am a `Junior` at [Faculty of Computers & Informatics at Fayoum University]
