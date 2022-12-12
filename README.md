@@ -15,6 +15,10 @@
 
 I'm a software engineer who is interesting in problem solving and web development . 
 
+## <picture><img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/about_me.gif" width = 50px></picture> About me
+
+<br><br>
+
 - :school: I am a `Junior` at [Faculty of Computers & Informatics at Fayoum University]
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a solving problems at `Codeforces`, `Leetcode`.
