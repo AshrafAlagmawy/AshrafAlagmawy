@@ -21,6 +21,14 @@ I'm a software engineer who is interesting in problem solving and web developmen
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`
 <br><br>
 
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Proplem Solving Profile
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Ashraf_Emad"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+	
+ <a href="https://leetcode.com/ashraf_emad/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+</p>
+
 ## <picture> <img src="https://github.com/ashrafemad097/ashrafemad097/blob/main/Connect-with-me.gif" width="100px"> </picture> Contact with me
 <p align="center">
 	<a href="mailto:ashrafemad097@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
