@@ -5,6 +5,10 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EBF71D&center=true&width=435&lines=Computer+Science+Student;Full-Stack+Software+Engineer;Always+Learning+New+Things;Lifelong+Learner" alt="Typing SVG" /></a>
 </p>
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0e75b6&style=plastic" alt="ashraf emad" height=25px, width=150px/> 
+</p>
+
 I'm a software engineer who is interesting in problem solving and web development . 
 
 ## <picture><img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/about_me.gif" width = 50px></picture> About me
