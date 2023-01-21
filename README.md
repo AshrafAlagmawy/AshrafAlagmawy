@@ -17,7 +17,7 @@ I'm a software engineer who is interesting in problem solving and web developmen
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics at Fayoum University]
+- :school: I am a `Junior` at [Faculty of Computer Science & Artificial Intelligence at Fayoum University]
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a solving problems at `Codeforces`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
