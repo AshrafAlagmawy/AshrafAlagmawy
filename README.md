@@ -50,9 +50,6 @@ I'm a software engineer who is interesting in problem solving and web developmen
 <a href="https://www.instagram.com/_ashrafemad/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 &emsp;
 <a href="https://twitter.com/_ashrafemad"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-
-&emsp;
-<a href="https://twitter.com/_ashrafemad"><img src="https://img.shields.io/badge/instagram-%231FA1F1?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
 ## 🛠️ Programming languages and Tools : 
