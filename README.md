@@ -45,8 +45,6 @@ I'm a software engineer who is interesting in problem solving and web developmen
 	 <a href="https://twitter.com/_ashrafemad"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
-<br><br>
-
 ## <h3 align="left"> 🛠️ Programming languages and Tools : </h3>
 <p align="center"> 
   &emsp; 
@@ -66,8 +64,6 @@ I'm a software engineer who is interesting in problem solving and web developmen
  &emsp; 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
-<br><br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
