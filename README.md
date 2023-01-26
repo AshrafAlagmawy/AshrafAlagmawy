@@ -7,19 +7,8 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0e75b6&style=plastic" alt="ashraf emad" height=25px, width=150px/> 
-</p>
-
-<!--  -->
-
-<p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?" alt="ashraf emad" height=25px, width=160px/> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://aktive.tk/egypt/ashrafemad097?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-	</a>
-
 </p>
-
-<!--  -->
 
 I'm a software engineer who is interesting in problem solving and web development . 
 
