@@ -36,7 +36,6 @@ I'm a software engineer who is interesting in problem solving and web developmen
 
 ## <picture> <img src="https://github.com/ashrafemad097/ashrafemad097/blob/main/Connect-with-me.gif" width="100px"> </picture> Contact with me
 <p align="center">
-
 &emsp;
 <a href="mailto:ashrafemad097@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 &emsp;
