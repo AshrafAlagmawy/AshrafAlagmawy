@@ -45,7 +45,7 @@ I'm a software engineer who is interesting in problem solving and web developmen
 	 <a href="https://twitter.com/_ashrafemad"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
-## <h3 align="left"> 🛠️ Programming languages and Tools : </h3>
+## 🛠️ Programming languages and Tools : 
 <p align="center"> 
   &emsp; 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
