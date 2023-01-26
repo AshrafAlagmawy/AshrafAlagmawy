@@ -6,7 +6,6 @@
 </p>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0e75b6&style=plastic" alt="ashraf emad" height=25px, width=150px/> 
 	<img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?" alt="ashraf emad" height=25px, width=160px/> 
 </p>
 
