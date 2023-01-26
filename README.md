@@ -25,7 +25,7 @@ I'm a software engineer who is interesting in problem solving and web developmen
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`
 <br><br>
 
-## Proplem Solving Profile
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Proplem Solving Profile
 
 <p>
   <a href="https://codeforces.com/profile/Ashraf_Emad"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>  <a href="https://leetcode.com/ashraf_emad/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
@@ -66,7 +66,7 @@ I'm a software engineer who is interesting in problem solving and web developmen
 
 <br><br>
 
- ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
