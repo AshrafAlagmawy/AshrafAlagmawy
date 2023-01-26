@@ -36,15 +36,28 @@ I'm a software engineer who is interesting in problem solving and web developmen
 
 ## <picture> <img src="https://github.com/ashrafemad097/ashrafemad097/blob/main/Connect-with-me.gif" width="100px"> </picture> Contact with me
 <p align="center">
-	<a href="mailto:ashrafemad097@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/ashrafemad097"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201004167358"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/ashraf-emad-rabiea-b80431235/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/ashraf.emad.927/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/_ashrafemad/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	 <a href="https://twitter.com/_ashrafemad"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-</p>
 
+&emsp;
+<a href="mailto:ashrafemad097@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+ 
+&emsp;
+<a href="https://github.com/ashrafemad097"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+
+&emsp;
+<a href="https://wa.me/0201004167358"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+ 
+&emsp;
+<a href="https://www.linkedin.com/in/ashraf-emad-rabiea-b80431235/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+&emsp;
+<a href="https://www.facebook.com/ashraf.emad.927/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+
+&emsp;
+<a href="https://www.instagram.com/_ashrafemad/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+&emsp;
+<a href="https://twitter.com/_ashrafemad"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+</p>
 
 ## 🛠️ Programming languages and Tools : 
 <p align="center"> 
