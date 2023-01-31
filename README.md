@@ -2,8 +2,12 @@
 <h1 align="center">Hi, I'm Ashraf Emad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EBF71D&center=true&width=435&lines=Computer+Science+Student;Full-Stack+Software+Engineer;Always+Learning+New+Things;Lifelong+Learner" alt="Typing SVG" /></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Student;Full-Stack+Software+Engineer;Always+Learning+New+Things;Lifelong+Learner" alt="Typing SVG" /></a>
 </p>
+
+<!-- <a href="https://git.io/typing-svg"> -->
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EBF71D&center=true&width=435&lines= -->
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?" alt="ashraf emad" height=25px, width=160px/> 
