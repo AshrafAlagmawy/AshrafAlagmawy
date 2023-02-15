@@ -56,8 +56,6 @@ I'm a software engineer who is interesting in problem solving and web developmen
 <a href="https://twitter.com/_ashrafemad"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
-<br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills
 
 ### <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/Programming_Languages.gif" width = 50px> Programming languages
