@@ -29,7 +29,7 @@ I'm a software engineer who is interesting in problem solving and web developmen
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`
 <br><br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Problem Solving Profiles
+## <picture> <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/CP_PS.gif" width = 50px>  </picture> Problem Solving Profiles
 
 <p align="center">
 &emsp;
