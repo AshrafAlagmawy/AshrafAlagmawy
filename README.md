@@ -10,7 +10,7 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EBF71D&center=true&width=435&lines= -->
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?" alt="ashraf emad" height=25px, width=160px/> 
+<img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?" alt="ashraf emad" height=25px, width=160px/> 
 </p>
 
 I'm a software engineer who is interesting in problem solving and web development . 
