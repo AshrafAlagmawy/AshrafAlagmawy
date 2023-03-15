@@ -27,7 +27,7 @@ I'm a software engineer who is interesting in problem solving and web developmen
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`
-- This is `My Portfolio` : <a href='https://ashraf-emad.netlify.app/' target='_blanc'>Portfolio</a> 
+- 🕸️ `My Portfolio` : <a href='https://ashraf-emad.netlify.app/' target='_blanc'>Portfolio</a> 
 <br><br>
 
 ## <picture> <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/CP_PS.gif" width = 50px>  </picture> Problem Solving Profiles
