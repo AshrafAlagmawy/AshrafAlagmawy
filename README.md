@@ -141,6 +141,15 @@ I'm a software engineer who is interesting in problem solving and web developmen
 <br>
 <br>
 
-<a href="https://github.com/ashrafemad097" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafemad097&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/ashrafemad097" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafemad097&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+### Github Stats
+ ![](https://github.com/ashrafemad097/ashrafemad097/blob/master/generated/overview.svg)
+ ![](https://github.com/ashrafemad097/ashrafemad097/blob/master/generated/languages.svg)
+ 
+ 1.01<sup>365</sup> = 37.8
+   
+0.99<sup>365</sup> = 0.03
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafemad097&layout=compact)](https://github.com/ashrafemad097/github-readme-stats) -->
+
+
