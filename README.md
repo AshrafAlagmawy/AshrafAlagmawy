@@ -146,8 +146,4 @@ I'm a software engineer who is interesting in problem solving and web developmen
  
  1.01<sup>365</sup> = 37.8
    
-0.99<sup>365</sup> = 0.03
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafemad097&layout=compact)](https://github.com/ashrafemad097/github-readme-stats)
-
-
+ 0.99<sup>365</sup> = 0.03
