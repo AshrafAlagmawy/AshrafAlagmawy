@@ -95,16 +95,11 @@ I'm a software engineer who is interesting in problem solving and web developmen
 ### <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/Coding.gif" width = 50px>  Backend Development
 <p align="center"> 
  &emsp; 
-<!--  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"  alt="php" width="40" height="40"/> </a> 
- &emsp; 
-  <a href="https://www.laravel.net" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/1200px-Laravel.svg.png?alt=media&token=84f98e2d-577d-496d-a8c3-f09e29f72e8e" alt="Laravel" width="40" height="40"/> </a>  -->
- 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
  &emsp; 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  &emsp;  
  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="Postman" width="40" height="40"/> </a> 
- 
 </p>
 
  ### <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/Software_Tools.gif" width = 50px>  Software & Tools
