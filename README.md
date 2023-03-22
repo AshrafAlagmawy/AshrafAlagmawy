@@ -142,6 +142,6 @@ I'm a software engineer who is interesting in problem solving and web developmen
  
   ### Small Steps Everyday Lead To Big Goal 🤸‍♂️
   
- 1.01<sup>365</sup> = 37.8
+ 1.00<sup>365</sup> = 1.00
                           
- 0.99<sup>365</sup> = 0.03
+ 1.01<sup>365</sup> = 37.7
