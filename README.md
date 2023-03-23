@@ -138,17 +138,6 @@ I'm a software engineer who is interesting in problem solving and web developmen
 <br>
 
 ### Github Stats
-<a href="https://github.com/ashrafemad097" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafemad097&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
- 
-  ### Small Steps Everyday Lead To Big Goal 🤸‍♂️
-  
- [1.00] <sup>365</sup> = 1.00
-                          
- [1.01] <sup>365</sup> = 37.7
- 
-<!--   -->
-
-### My Progress
 
 [comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
 <p align="center">
@@ -158,5 +147,10 @@ I'm a software engineer who is interesting in problem solving and web developmen
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashrafemad097&theme=react&layout=compact"/>
 </a> 
 </p>
-
-<!--  -->
+ 
+  ### Small Steps Everyday Lead To Big Goal 🤸‍♂️
+  
+ [1.00] <sup>365</sup> = 1.00
+                          
+ [1.01] <sup>365</sup> = 37.7
+ 
