@@ -145,3 +145,18 @@ I'm a software engineer who is interesting in problem solving and web developmen
  [1.00] <sup>365</sup> = 1.00
                           
  [1.01] <sup>365</sup> = 37.7
+ 
+<!--   -->
+
+### My Progress
+
+[comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafemad097&theme=dark" alt="streak"/> <br>
+	<a href="https://github.com/ashrafemad097">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ashrafemad097&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashrafemad097&theme=react&layout=compact"/>
+</a> 
+</p>
+
+<!--  -->
