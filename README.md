@@ -26,7 +26,7 @@ I'm a software engineer who is interesting in problem solving and web developmen
 - :computer: I am a solving problems at `Codeforces`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, <a href='https://drive.google.com/file/d/1YLiOfn-4RjISQ3afgqOpYNGfi5qNG1Jl/view?usp=share_link' target='_blanc'>this is s MY RESUME .</a>
 - 🕸️ `My Portfolio` : <a href='https://ashraf-emad.netlify.app/' target='_blanc'>Portfolio</a> 
 <br><br>
 
