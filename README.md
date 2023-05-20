@@ -8,10 +8,17 @@
 
 <!-- <a href="https://git.io/typing-svg"> -->
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EBF71D&center=true&width=435&lines= -->
+<!--  -->
+<!-- <p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?" alt="ashraf emad" height=25px, width=160px/> 
+</p> -->
+<!--  -->
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?" alt="ashraf emad" height=25px, width=160px/> 
-</p>
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/ashrafemad097" alt="Most Active Users" target="_blank" width=43%/> 
+	</a>
+	<img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="ashraf emad" width=19.40%/>
 
 I'm a software engineer who is interesting in problem solving and web development . 
 
