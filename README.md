@@ -13,10 +13,6 @@
  <img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?&color=red" alt="ashraf emad" height=25px, width=160px/> 
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ashrafemad097&color=red" alt="ashraf emad">
-</p>
-
 <!-- <p align="center"> 
 	<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/ashrafemad097" alt="Most Active Users" target="_blank" width=43%/> 
