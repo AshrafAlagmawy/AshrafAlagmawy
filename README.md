@@ -72,7 +72,7 @@ I'm a software engineer who is interesting in problem solving and web developmen
 	<img src="https://skillicons.dev/icons?i=cpp,c,python,php,js&perline=8" />
 </p>
 
-### <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/Front_End.gif" width = 50px> Web Technologies and Tools
+### <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/Front_End.gif" width = 50px> Technologies and Tools
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,figma,js,ts,react,redux,postman&perline=8" />
