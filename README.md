@@ -83,7 +83,7 @@ I'm a software engineer who is interesting in problem solving and web developmen
 
 ### <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/Front_End.gif" width = 50px>  Frontend Development
 <p align="center"> 
- &emsp; 
+<!--  &emsp; 
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
  &emsp; 
  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
@@ -100,7 +100,10 @@ I'm a software engineer who is interesting in problem solving and web developmen
  &emsp; 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>
  &emsp; 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> -->
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,figma,js,ts,react,redux&perline=8/>
+ 
 </p>
 
 ### <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/Coding.gif" width = 50px>  Backend Development
