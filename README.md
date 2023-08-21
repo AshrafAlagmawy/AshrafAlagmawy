@@ -164,6 +164,12 @@ I'm a software engineer who is interesting in problem solving and web developmen
  [1.01] <sup>365</sup> = 37.7
 
 
+### 💎 Fav Quotes:
+
+- <b>"Think twice, code once".</b>
+- <b>"Life is about Solving Problems".</b>
+
+
 <div align="center">
 
 ### **ودائما تذكر فضل الله عليك**
