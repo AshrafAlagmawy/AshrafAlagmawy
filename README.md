@@ -68,17 +68,8 @@ I'm a software engineer who is interesting in problem solving and web developmen
 
 ### <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/Programming_Languages.gif" width = 50px> Programming languages
 
-<p align="center"> 
-  &emsp; 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- &emsp; 
-<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
- &emsp; 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- &emsp; 
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
- &emsp; 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=cpp,c,python,php,js&perline=8" />
 </p>
 
 ### <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/Front_End.gif" width = 50px>  Frontend Development
