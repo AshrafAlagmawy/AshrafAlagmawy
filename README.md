@@ -81,13 +81,7 @@ I'm a software engineer who is interesting in problem solving and web developmen
  ### <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/Software_Tools.gif" width = 50px>  Software & Tools
  
 <p align="center"> 
-	<img src="https://skillicons.dev/icons?i=git,github,stackoverflow,visualstudio,vscode&perline=8" />
-</p>
-
-### <picture> <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/OS.gif" width = 50px>  </picture> Operating Systems
- 
-<p align="center"> 
-	<img src="https://skillicons.dev/icons?i=linux&perline=8" />
+	<img src="https://skillicons.dev/icons?i=git,github,stackoverflow,visualstudio,vscode,linux&perline=8" />
 </p>
 
 <br>
