@@ -169,7 +169,6 @@ I'm a software engineer who is interesting in problem solving and web developmen
 - <b>"Think twice, code once".</b>
 - <b>"Life is about Solving Problems".</b>
 
-
 <div align="center">
 
 ### **ودائما تذكر فضل الله عليك**
@@ -179,4 +178,3 @@ I'm a software engineer who is interesting in problem solving and web developmen
 #### **﴿ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنْتُمْ مِنَ الْخَاسِرِينَ ﴾** 
 
 </div>
-
