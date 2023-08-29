@@ -108,8 +108,6 @@
 
 </div>
 
-<!--
-
 ## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
@@ -119,5 +117,3 @@
 		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashrafemad097/ashrafemad097/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
-
--->
