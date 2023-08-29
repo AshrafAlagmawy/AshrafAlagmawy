@@ -117,3 +117,5 @@
 		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashrafemad097/ashrafemad097/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
+
+![snake gif](https://github.com/ashrafemad097/ashrafemad097/blob/output/github-contribution-grid-snake.gif)
