@@ -107,3 +107,20 @@
 #### **﴿ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنْتُمْ مِنَ الْخَاسِرِينَ ﴾** 
 
 </div>
+
+<!-- -->
+
+
+
+   <div align="center">
+        <img
+            src="https://github-profile-trophy.vercel.app/?username=ashrafemad097&theme=matrix&no-bg=true&no-frame=true&row=1&column=9&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Issues,Organizations,Stars,Reviews">
+    </div>
+    <div align="center">  
+        <img  align="right" height="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafemad097&langs_count=20&layout=compact&exclude_repo=AI-Image-Caption-Bot,School-Donation-Analysis,AI-Music-Generation,homemade-machine-learning&hide_border=true&theme=github_dark&PAT_1" alt="Matheus Maia Alvarez github stats" />
+        <div align="left">
+            <img height="195px" src="https://github-readme-stats.vercel.app/api?username=ashrafemad097&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" /> 
+            <img height="195px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafemad097&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" />
+        </div>
+         <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" />
+    </div>
