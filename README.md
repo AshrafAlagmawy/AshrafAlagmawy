@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ashraf Emad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h1 align="center"> علمكم الله ما ينفعكم و نفعكم بما تعلمتم و زادكم علما </h1>
+<h1 align="center"> عِلْمُكُمْ اَللَّهُ مَا يَنْفَعُكُمْ وَنَفَعَكُمْ بِمَا تَعَلَّمْتُمْ وَزَادَكُمْ عِلْمًا </h1>
 
 <div style="display: flex; justify-content: center;">
         <img align="center" src="./assets/Welcome.gif" />
