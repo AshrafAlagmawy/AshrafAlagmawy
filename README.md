@@ -1,3 +1,9 @@
+<style>
+body {
+    font-color: white;
+}
+</style>
+
 <!-- <h1 align="center">Hi, I'm Ashraf Emad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
 
 <h1 align="center"> علمكم الله ما ينفعكم و نفعكم بما تعلمتم و زادكم علما </h1>
