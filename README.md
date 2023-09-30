@@ -1,8 +1,14 @@
-<style>
-body {
-    font-color: white;
-}
-</style>
+<html>
+	<head>
+		<style>
+			body {
+			    font-color: white;
+			}
+		</style>
+	</head>
+	<body>
+	</body>
+</html>
 
 <!-- <h1 align="center">Hi, I'm Ashraf Emad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
 
