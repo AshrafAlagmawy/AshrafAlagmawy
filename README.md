@@ -23,7 +23,7 @@
 - :student: I’m currently learning `Computer Science` , `Software Engineering` and `Front-end Development`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is <a href='https://drive.google.com/file/d/1YLiOfn-4RjISQ3afgqOpYNGfi5qNG1Jl/view?usp=share_link' target='_blanc'>MY RESUME .</a>
-- 🕸️ `My Portfolio` : <a href='https://ashraf-emad.netlify.app/' target='_blanc'>Portfolio</a> 
+- 🕸️ `Portfolio`  <a href='https://ashraf-emad.netlify.app/' target='_blanc'>Portfolio</a> 
 <br><br>
 
 ## <picture> <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/assets/CP_PS.gif" width = 50px>  </picture> Problem Solving Profiles
