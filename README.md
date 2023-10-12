@@ -20,7 +20,7 @@
 - :school: I am a `Senior` at [Faculty of Computer Science & Artificial Intelligence]
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a solving problems at `Codeforces`, `Leetcode`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Computer Science` , `Software Engineering` and `Front-end Development`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is <a href='https://drive.google.com/file/d/1YLiOfn-4RjISQ3afgqOpYNGfi5qNG1Jl/view?usp=share_link' target='_blanc'>MY RESUME .</a>
 - 🕸️ `My Portfolio` : <a href='https://ashraf-emad.netlify.app/' target='_blanc'>Portfolio</a> 
