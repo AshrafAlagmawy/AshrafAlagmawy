@@ -22,7 +22,7 @@
 - :computer: I am a solving problems at `Codeforces`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` , `Software Engineering` and `Front-end Development`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is <a href='https://drive.google.com/file/d/1YLiOfn-4RjISQ3afgqOpYNGfi5qNG1Jl/view?usp=share_link' target='_blanc'>MY RESUME .</a>
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is <a href='https://drive.google.com/drive/u/0/folders/1544dtxmCt44XPKSXMAWty3cbgeUrHtfa' target='_blanc'>MY RESUME .</a>
 - 🕸️ `Portfolio`  <a href='https://ashraf-emad.netlify.app/' target='_blanc'>Portfolio</a> 
 <br><br>
 
