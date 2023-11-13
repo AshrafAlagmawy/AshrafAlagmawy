@@ -58,7 +58,7 @@
 ### <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/assets/Programming_Languages.gif" width = 50px> Programming languages
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=cpp,c,python,php,js&perline=8" />
+	<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,php,js&perline=8" />
 </p>
 
 ### <img src = "https://github.com/ashrafemad097/ashrafemad097/blob/main/assets/Front_End.gif" width = 50px> Technologies and Tools
