@@ -17,7 +17,7 @@
 
 <br><br>
 
-- :school: I am a `Senior` at `Faculty of Computer Science and Artificial Intelligence Fayoum University`.
+- :school: I am a `Senior` at `Faculty of Computer Science and Artificial Intelligence`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a solving problems at `Codeforces`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` , `Software Engineering` and `Front-end Development`.
