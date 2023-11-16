@@ -17,12 +17,12 @@
 
 <br><br>
 
-- :school: I am a `Senior` at `Faculty of Computer Science and Artificial Intelligence`.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a solving problems at `Codeforces`, `Leetcode`.
-- :student: I’m currently learning `Computer Science` , `Software Engineering` and `Front-end Development`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is <a href='https://drive.google.com/file/d/1R2T0wvNPucFIZZQFAQmTwJ85I3RoIYXE/view' target='_blanc'>MY RESUME .</a>
+- :school: I am a `Senior` at `Faculty of Computer Science and Artificial Intelligence`
+- :technologist: I love using Software as a solution for every `Problem`
+- :computer: I am a solving problems at `Codeforces`, `Leetcode`
+- :student: I’m currently learning `Computer Science` , `Software Engineering` and `Front-end Development`
+- :nerd_face: Always `learning new things`
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is <a href='https://drive.google.com/file/d/1R2T0wvNPucFIZZQFAQmTwJ85I3RoIYXE/view' target='_blanc'>MY RESUME </a>
 - 🕸️ `Portfolio`  <a href='https://ashraf-emad.netlify.app/' target='_blanc'>Portfolio</a> 
 <br><br>
 
