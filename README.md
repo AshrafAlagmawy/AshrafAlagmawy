@@ -1,5 +1,3 @@
-<!-- <h1 align="center">Hi, I'm Ashraf Emad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
-
 <h1 align="center"> علمكم الله ما ينفعكم و نفعكم بما تعلمتم و زادكم علما </h1>
 
 <p align="center">
@@ -108,10 +106,3 @@
 #### **﴿ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنْتُمْ مِنَ الْخَاسِرِينَ ﴾** 
 
 </div>
-
-<!--
-<p>
-	<img src="https://user-images.githubusercontent.com/120355368/259693892-0f6f2fb1-82ff-4024-812a-c62a33a887f9.gif" align="center">
-	<a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg"></a>
-</p>
-->
