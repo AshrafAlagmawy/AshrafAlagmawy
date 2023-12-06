@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=AshrafAlagmawy&label=Profile%20views&color=0047AB&style=plastic?&color=red" alt="ashraf emad" height=25px, width=160px/> 
+ <img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?&color=red" alt="ashraf emad" height=25px, width=160px/> 
 </p>
 
 ## <picture><img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/about_me.gif" width = 50px></picture> About me
