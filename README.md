@@ -36,7 +36,7 @@
 ## <picture> <img src="https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/Connect-with-me.gif" width="100px"> </picture> Contact with me
 <p align="center">
 &emsp;
-<a href="mailto:AshrafAlagmawy@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:ashrafemad097@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 &emsp;
 <a href="https://github.com/AshrafAlagmawy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 &emsp;
@@ -46,9 +46,9 @@
 &emsp;
 <a href="https://www.facebook.com/ashraf.emad.927/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 &emsp;
-<a href="https://www.instagram.com/_ashrafemad/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.instagram.com/ashraf_alagmawy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 &emsp;
-<a href="https://twitter.com/_ashrafemad"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/ashraf_alagmawy"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills
