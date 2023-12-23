@@ -28,9 +28,9 @@
 
 <p align="center">
 &emsp;
-<a href="https://leetcode.com/ashraf_emad/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+<a href="https://leetcode.com/Agmawyy/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 &emsp;
- <a href="https://codeforces.com/profile/Ashraf_Emad"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+ <a href="https://codeforces.com/profile/Agmawyy"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 </p>
 
 ## <picture> <img src="https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/Connect-with-me.gif" width="100px"> </picture> Contact with me
