@@ -46,7 +46,7 @@
 &emsp;
 <a href="https://www.facebook.com/ashraf.emad.927/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 &emsp;
-<a href="https://www.instagram.com/ashraf_alagmawy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.instagram.com/AshrafAlagmawy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 &emsp;
 <a href="https://twitter.com/ashraf_alagmawy"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
