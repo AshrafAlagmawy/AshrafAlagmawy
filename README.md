@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Senior+Computer+Science+Student;Software+Engineer;Always+Learning+New+Things;Lifelong+Learner" alt="Typing SVG" /> </a>
 </p>
 
+
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?&color=red" alt="ashraf emad" height=25px, width=160px/> 
 </p>
