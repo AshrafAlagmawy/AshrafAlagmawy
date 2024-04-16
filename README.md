@@ -11,11 +11,11 @@
 
 ## <picture><img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/about_me.gif" width = 50px></picture> About me
 
-- 🎓 Graduated from Faculty of Computer Science And Artifitial Intellegence, Fayoum University `Computer Science departement`
+- 🎓 Graduated from Faculty of Computer Science And Artifitial Intellegence, Fayoum University Computer Science departement
 
-- 🏃‍♂️ I am passionate about `Front-End`, `.NET Development`, `Web Performance`, `Problem Solving` 
+- 🏃‍♂️ I am passionate about Front-End, .NET Development, Web Performance, Problem Solving 
 
-- 🚧 I'm currently focused on improving my ability to provide high quality web applications using `React.js`
+- 🚧 I'm currently focused on improving my ability to provide high quality web applications using React.js
 
 - 🍀 Ask me about anything, I will be happy to help
 
