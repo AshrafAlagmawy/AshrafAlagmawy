@@ -11,7 +11,7 @@
 
 ## <picture><img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/about_me.gif" width = 50px></picture> About me
 
-- 🎓 Graduated from Faculty of Computer Science And Artifitial Intellegence Fayoum University Computer Science departement
+- 🎓 Graduated from Faculty of Computer Science And Artifitial Intellegence, Fayoum University `Computer Science departement`
 
 - 🏃‍♂️ I am passionate about Front-End, .NET Development, Web Performance, Competitive Programming 
 
