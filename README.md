@@ -28,9 +28,11 @@
 
 <p align="center">
 &emsp;
+<a href="https://codepen.io/ashrafemad097"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
+&emsp;
 <a href="https://leetcode.com/Agmawyy/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
 &emsp;
- <a href="https://codeforces.com/profile/Agmawyy"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Code Forces"/></a>
+ <a href="https://codeforces.com/profile/Agmawyy"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces"/></a>
 </p>
 
 ## <picture> <img src="https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/Connect-with-me.gif" width="100px"> </picture> Contact with me
