@@ -67,7 +67,7 @@
 	<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,php,js,ts,html,css,sass,bootstrap,tailwind,figma,react,redux,nextjs,jest,nodejs,postman&perline=8" />
 </p>
 
- ## <img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/Software_Tools.gif" width = 50px>  Software Tools
+## Software Tools
  
 <p align="center"> 
 	<img src="https://skillicons.dev/icons?i=git,github,stackoverflow,visualstudio,vscode,linux&perline=8" />
