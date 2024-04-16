@@ -28,7 +28,7 @@
   
   > "Think twice, code once"
 
-<br><br>
+<br>
 
 ## Profiles
 <p align="center">
