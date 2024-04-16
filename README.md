@@ -10,13 +10,24 @@
 </p>
 
 ## <picture><img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/about_me.gif" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/giphy%20(1).gif" width = 250px></picture>
 <br><br>
-- :school: I am a `Senior` at `Faculty of Computer Science and Artificial Intelligence`
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a solving problems at `Codeforces`, `Leetcode`
-- :student: I’m currently learning `Computer Science` , `Software Engineering` and `Front-end Development`
-- :nerd_face: Always `learning new things`
+
+- 🎓 Graduated from Faculty of Computer Science And Artifitial Intellegence Fayoum University Computer Science departement
+
+- 🏃‍♂️ I am passionate about Front-End, .NET Development, Web Performance, Competitive Programming 
+
+- 🚧 I'm currently focused on improving my ability to provide high quality web applications using React.js
+
+- 🍀 Ask me about anything, I will be happy to help
+
+- 💬 Favourite Quotes: 
+
+  > “Life is about Solving Problems”
+
+  > "You don't have to be great to start, but you have to start to be great"  - Zig Zagler
+  
+  > "Think twice, code once"
+
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is <a href='https://drive.google.com/file/d/1Cvjl4jiO3UlJjJRJWkaNMYBnYWBYZtQ7/view' target='_blanc'>MY RESUME </a>
 - 🕸️ `Portfolio`  <a href='https://ashraf-emad.netlify.app/' target='_blanc'>Portfolio</a> 
 <br><br>
@@ -55,7 +66,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills
 
-### <img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/Programming_Languages.gif" width = 50px> Programming languages and Tools
+### <img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/Programming_Languages.gif" width = 50px> 🧰 Programming languages and Tools
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,php,js,ts,html,css,sass,bootstrap,tailwind,figma,react,redux,nextjs,jest,nodejs,postman&perline=8" />
@@ -87,12 +98,6 @@
                           
  [1.01] <sup>365</sup> = 37.7
 
-
-### 💎 Fav Quotes:
-
-- <b>"Think twice, code once".</b>
-- <b>"Life is about Solving Problems".</b>
-
 <div align="center">
 
 ### **ودائما تذكر فضل الله عليك**
@@ -102,3 +107,32 @@
 #### **﴿ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنْتُمْ مِنَ الْخَاسِرِينَ ﴾** 
 
 </div>
+
+
+<!--
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jest.svg?sanitize=true"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" /></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></code>
+
+<br />
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" title="Cypress"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+
+-->
