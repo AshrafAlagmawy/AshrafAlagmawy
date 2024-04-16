@@ -24,11 +24,15 @@
 - 🕸️ `Portfolio`  <a href='https://ashraf-emad.netlify.app/' target='_blanc'>Portfolio</a> 
 <br><br>
 
-## <picture> <img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/CP_PS.gif" width = 50px>  </picture> Coding Profiles
+## <picture> <img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/CP_PS.gif" width = 50px>  </picture> Profiles
 
 <p align="center">
 &emsp;
 <a href="https://codepen.io/ashrafemad097"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
+&emsp;
+<a href="https://medium.com/@ashrafemad097"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+&emsp;
+<a href="https://dev.to/ashrafemad097"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev"/></a>
 &emsp;
 <a href="https://leetcode.com/Agmawyy/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
 &emsp;
