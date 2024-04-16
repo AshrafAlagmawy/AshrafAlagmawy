@@ -61,7 +61,7 @@
 <a href="https://twitter.com/AshrafAlagmawy"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
 </p>
 
-## 🧰 Programming languages and Tools
+## Programming languages and Tools
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,php,js,ts,html,css,sass,bootstrap,tailwind,figma,react,redux,nextjs,jest,nodejs,postman&perline=8" />
