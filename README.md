@@ -24,7 +24,7 @@
 - 🕸️ `Portfolio`  <a href='https://ashraf-emad.netlify.app/' target='_blanc'>Portfolio</a> 
 <br><br>
 
-## <picture> <img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/CP_PS.gif" width = 50px>  </picture> Problem Solving Profiles
+## <picture> <img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/CP_PS.gif" width = 50px>  </picture> Coding Profiles
 
 <p align="center">
 &emsp;
