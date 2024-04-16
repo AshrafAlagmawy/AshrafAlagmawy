@@ -73,9 +73,6 @@
 	<img src="https://skillicons.dev/icons?i=git,github,stackoverflow,visualstudio,vscode,linux&perline=8" />
 </p>
 
-<br>
-<br>
-
 ## Github Stats
 
 [comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
