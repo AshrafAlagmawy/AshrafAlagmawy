@@ -63,7 +63,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills
 
-### <img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/Programming_Languages.gif" width = 50px> 🧰 Programming languages and Tools
+### 🧰 Programming languages and Tools
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,php,js,ts,html,css,sass,bootstrap,tailwind,figma,react,redux,nextjs,jest,nodejs,postman&perline=8" />
