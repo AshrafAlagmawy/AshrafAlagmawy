@@ -13,9 +13,9 @@
 
 - 🎓 Graduated from Faculty of Computer Science And Artifitial Intellegence, Fayoum University `Computer Science departement`
 
-- 🏃‍♂️ I am passionate about Front-End, .NET Development, Web Performance, Competitive Programming 
+- 🏃‍♂️ I am passionate about `Front-End`, `.NET Development`, `Web Performance`, `Problem Solving` 
 
-- 🚧 I'm currently focused on improving my ability to provide high quality web applications using React.js
+- 🚧 I'm currently focused on improving my ability to provide high quality web applications using `React.js`
 
 - 🍀 Ask me about anything, I will be happy to help
 
