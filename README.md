@@ -13,6 +13,7 @@
 
 <br><br>
 
+## <picture><img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/about_me.gif" width = 50px></picture> About me
 - :school: I am a `Senior` at `Faculty of Computer Science and Artificial Intelligence`
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a solving problems at `Codeforces`, `Leetcode`
