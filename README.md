@@ -43,7 +43,7 @@
  <a href="https://codeforces.com/profile/Agmawyy"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces"/></a>
 </p>
 
-## <picture> <img src="https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/Connect-with-me.gif" width="100px"> </picture> Contact with me
+## Contact with me
 <p align="center">
 &emsp;
 <a href="mailto:ashrafemad097@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
