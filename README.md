@@ -61,15 +61,13 @@
 <a href="https://twitter.com/AshrafAlagmawy"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills
-
-### 🧰 Programming languages and Tools
+## 🧰 Programming languages and Tools
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,php,js,ts,html,css,sass,bootstrap,tailwind,figma,react,redux,nextjs,jest,nodejs,postman&perline=8" />
 </p>
 
- ### <img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/Software_Tools.gif" width = 50px>  Software Tools
+ ## <img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/Software_Tools.gif" width = 50px>  Software Tools
  
 <p align="center"> 
 	<img src="https://skillicons.dev/icons?i=git,github,stackoverflow,visualstudio,vscode,linux&perline=8" />
@@ -78,7 +76,7 @@
 <br>
 <br>
 
-### Github Stats
+## Github Stats
 
 [comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
 <p align="center">
