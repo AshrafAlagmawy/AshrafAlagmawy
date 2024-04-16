@@ -9,8 +9,6 @@
  <img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?&color=red" alt="ashraf emad" height=25px, width=160px/> 
 </p>
 
-## <picture><img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/about_me.gif" width = 50px></picture> About me
-
 <picture> <img align="right" src="https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/giphy%20(1).gif" width = 250px></picture>
 
 <br><br>
