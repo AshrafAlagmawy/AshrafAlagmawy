@@ -10,11 +10,8 @@
 </p>
 
 ## <picture><img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/about_me.gif" width = 50px></picture> About me
-
 <picture> <img align="right" src="https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/giphy%20(1).gif" width = 250px></picture>
-
 <br><br>
-
 - :school: I am a `Senior` at `Faculty of Computer Science and Artificial Intelligence`
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a solving problems at `Codeforces`, `Leetcode`
@@ -25,7 +22,6 @@
 <br><br>
 
 ## Profiles
-
 <p align="center">
 &emsp;
 <a href="https://codepen.io/ashrafemad097"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
