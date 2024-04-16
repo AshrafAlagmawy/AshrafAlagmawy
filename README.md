@@ -10,7 +10,6 @@
 </p>
 
 ## <picture><img src = "https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/about_me.gif" width = 50px></picture> About me
-<br>
 
 - 🎓 Graduated from Faculty of Computer Science And Artifitial Intellegence Fayoum University Computer Science departement
 
