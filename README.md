@@ -28,8 +28,6 @@
   
   > "Think twice, code once"
 
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is <a href='https://drive.google.com/file/d/1Cvjl4jiO3UlJjJRJWkaNMYBnYWBYZtQ7/view' target='_blanc'>MY RESUME </a>
-- 🕸️ `Portfolio`  <a href='https://ashraf-emad.netlify.app/' target='_blanc'>Portfolio</a> 
 <br><br>
 
 ## Profiles
