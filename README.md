@@ -1,13 +1,12 @@
 <h1 align="center"> علمكم الله ما ينفعكم و نفعكم بما تعلمتم و زادكم علما </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=007BFF&center=true&vCenter=true&width=500&height=100&lines=Front-End+Software+Engineer;Passionate+.NET+Developer;Always+Learning+New+Things;Lifelong+Learner" alt="Typing SVG" />
-  </a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Front-End+Software+Engineer;Passionate+.NET+Developer;Always+Learning+New+Things;Lifelong+Learner" alt="Typing SVG" /> </a>
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?&color=4682B4" alt="ashraf emad" height="25px" width="160px"/> 
+ <img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?&color=red" alt="ashraf emad" height=25px, width=160px/> 
 </p>
 
 ## About me
