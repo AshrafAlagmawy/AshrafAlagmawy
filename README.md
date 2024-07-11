@@ -9,7 +9,7 @@
 
 # I'm [Ashraf Alagmawy](https://www.linkedin.com/in/ashraf-emad/) 
 
-## About me
+# About me
 
 - 🎓 Graduated from Faculty of Computer Science and Artifitial Intellegence, Fayoum University Computer Science departement
 
