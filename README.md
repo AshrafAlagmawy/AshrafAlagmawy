@@ -7,9 +7,9 @@
  <img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?&color=red" alt="ashraf emad" height=25px, width=160px/> 
 </p>
 
-# I'm [Ashraf Alagmawy](https://www.linkedin.com/in/ashraf-emad/) 
+## I'm [Ashraf Alagmawy](https://www.linkedin.com/in/ashraf-emad/) 
 
-# About me
+## About me
 
 - 🎓 Graduated from Faculty of Computer Science and Artifitial Intellegence, Fayoum University Computer Science departement
 
