@@ -1,7 +1,7 @@
 <h1 align="center"> علمكم الله ما ينفعكم و نفعكم بما تعلمتم و زادكم علما </h1>
 
 
-![https://raw.githubusercontent.com/AshrafAlagmawy/AshrafAlagmawy/main/assets/hero.gif](https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/hero.gif)
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/hero.gif)
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?&color=red" alt="ashraf emad" height=25px, width=160px/> 
