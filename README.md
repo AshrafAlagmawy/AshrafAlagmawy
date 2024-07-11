@@ -1,9 +1,7 @@
 <h1 align="center"> علمكم الله ما ينفعكم و نفعكم بما تعلمتم و زادكم علما </h1>
 
-<p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=27&color=F75D0E&center=true&vCenter=true&width=500&height=100&lines=Front-End+Software+Engineer;Passionate+about+.NET+Development;Always+Learning+New+Things;Lifelong+Learner" alt="Typing SVG" /> </a>
-</p>
+
+![](https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/hero.gif)
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?&color=red" alt="ashraf emad" height=25px, width=160px/> 
