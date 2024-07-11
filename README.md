@@ -4,7 +4,7 @@
 ![](https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/hero.gif)
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?&color=red" alt="ashraf emad" height=25px, width=160px/> 
+ <img src="https://komarev.com/ghpvc/?username=ashrafemad097&label=Profile%20views&color=0047AB&style=plastic?&color=blue" alt="ashraf emad" height=25px, width=160px/> 
 </p>
 
 # I'm [Ashraf Alagmawy](https://www.linkedin.com/in/ashraf-emad/) 
