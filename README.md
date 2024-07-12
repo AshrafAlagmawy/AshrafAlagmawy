@@ -64,7 +64,7 @@
 ## Programming languages and Tools
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,php,js,ts,html,css,sass,bootstrap,tailwind,figma,react,redux,nextjs,jest,nodejs,postman&perline=8" />
+	<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,php,js,ts,html,css,sass,bootstrap,tailwind,figma,react,redux,nextjs,jest,nodejs,postman,dotnet&perline=8" />
 </p>
 
 ## Software Tools
