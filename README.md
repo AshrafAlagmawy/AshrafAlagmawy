@@ -15,7 +15,7 @@
 
 - 🏃‍♂️ I'm passionate about `Front-End`, `.NET Development`, `Web Performance`, `Problem Solving` 
 
-- 🚧 I'm currently focused on improving my ability to provide high quality web applications using `React.js`
+- 🚧 I'm currently focused on improving my ability to provide high quality web applications and learning .NET
 
 - 🍀 Ask me about anything, I will be happy to help
 
