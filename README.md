@@ -62,9 +62,3 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AshrafAlagmawy&theme=react&layout=compact"/>
 </a> 
 </p>
- 
-  ### Small Steps Everyday Lead To Big Goal 🤸‍♂️
-  
- [1.00] <sup>365</sup> = 1.00
-                          
- [1.01] <sup>365</sup> = 37.7
