@@ -8,24 +8,6 @@
 
 # I'm [Ashraf Alagmawy](https://www.linkedin.com/in/ashraf-emad/) 
 
-## About me
-
-- 🎓 Graduated from Faculty of Computer Science and Artifitial Intellegence, Fayoum University Computer Science departement
-
-- 🏃‍♂️ I'm passionate about `Front-End`, `.NET Development`, `Web Performance`, `Problem Solving` 
-
-- 🚧 I'm currently focused on improving my ability to provide high quality web applications and learning .NET
-
-- 🍀 Ask me about anything, I will be happy to help
-
-- 💬 Favourite Quotes: 
-
-  > “Life is about Solving Problems”
-
-  > "You don't have to be great to start, but you have to start to be great"  - Zig Zagler
-  
-  > "Think twice, code once"
-
 <br>
 
 ## Profiles
