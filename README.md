@@ -39,26 +39,3 @@
 &emsp;
 <a href="https://x.com/agmawyy"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
 </p>
-
-## Programming languages and Tools
-
-<p align="center">
-	<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,php,js,ts,html,css,sass,bootstrap,tailwind,figma,react,redux,nextjs,jest,nodejs,postman,dotnet&perline=8" />
-</p>
-
-## Software Tools
- 
-<p align="center"> 
-	<img src="https://skillicons.dev/icons?i=git,github,stackoverflow,visualstudio,vscode,linux&perline=8" />
-</p>
-
-## Github Stats
-
-[comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshrafAlagmawy&theme=dark" alt="streak"/> <br>
-	<a href="https://github.com/AshrafAlagmawy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AshrafAlagmawy&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AshrafAlagmawy&theme=react&layout=compact"/>
-</a> 
-</p>
