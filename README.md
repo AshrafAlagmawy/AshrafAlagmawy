@@ -88,3 +88,14 @@ Focused on:
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
+
+## Github Stats
+
+[comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshrafAlagmawy&theme=dark" alt="streak"/> <br>
+	<a href="https://github.com/AshrafAlagmawy">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AshrafAlagmawy&show_icons=true&count_private=true&theme=react&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AshrafAlagmawy&theme=react&layout=compact"/>
+</a> 
+</p>
