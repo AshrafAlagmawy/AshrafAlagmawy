@@ -24,18 +24,18 @@ Strong background in:
 - Clean Code & Scalable Architecture  
 - Frontend & Backend Integration  
 
-Actively contributing to GitHub and continuously improving technical depth.
-
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,html,css,scss,bootstrap,tailwind,react,nextjs,angular,dotnet,sqlserver,mysql,git,github,bitbucket,postman,figma,jira,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,html,css,scss,bootstrap,tailwind,react,nextjs,angular,dotnet,git,github,bitbucket,postman,figma,jira,linux" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/>
 </p>
 
 <p align="center">
@@ -106,11 +106,21 @@ Actively contributing to GitHub and continuously improving technical depth.
 ## 🌐 Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/Agmawyy/">LeetCode</a> •
-  <a href="https://codeforces.com/profile/Agmawyy">Codeforces</a> •
-  <a href="https://dev.to/ashrafemad097">Dev.to</a> •
-  <a href="https://medium.com/@ashrafemad097">Medium</a> •
-  <a href="https://codepen.io/ashrafemad097">CodePen</a>
+  <a href="https://leetcode.com/Agmawyy/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+  <a href="https://codeforces.com/profile/Agmawyy">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" width="48"/>
+  </a>
+  <a href="https://dev.to/ashrafemad097">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+  <a href="https://medium.com/@ashrafemad097">
+    <img src="https://skillicons.dev/icons?i=medium" />
+  </a>
+  <a href="https://codepen.io/ashrafemad097">
+    <img src="https://skillicons.dev/icons?i=codepen" />
+  </a>
 </p>
 
 ---
@@ -118,8 +128,16 @@ Actively contributing to GitHub and continuously improving technical depth.
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:ashraf.alagmawy@gmail.com">Gmail</a> •
-  <a href="https://www.linkedin.com/in/ashraf-emad/">LinkedIn</a> •
-  <a href="https://github.com/AshrafAlagmawy">GitHub</a> •
-  <a href="https://wa.me/201004167358">WhatsApp</a>
+  <a href="mailto:ashraf.alagmawy@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashraf-emad/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/AshrafAlagmawy">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://wa.me/201004167358">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" width="48"/>
+  </a>
 </p>
