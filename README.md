@@ -45,8 +45,14 @@ Focused on:
   <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Structures-0047AB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Algorithms-0A0A0A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SOLID-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOLID%20Principles-2E8B57?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Design%20Patterns-800000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database%20Design-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Architecture%20Design-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-1F6FEB?style=for-the-badge"/>
 </p>
 
 ---
