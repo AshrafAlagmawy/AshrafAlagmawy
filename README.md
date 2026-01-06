@@ -6,11 +6,6 @@
   <img src="https://github.com/AshrafAlagmawy/AshrafAlagmawy/blob/main/assets/hero.gif" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshrafAlagmawy&label=Profile%20Views&color=0047AB&style=plastic" />
-  <img src="https://komarev.com/ghpvc/?username=AshrafAlagmawy&label=Profile%20Views&color=0047AB&style=plastic" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
