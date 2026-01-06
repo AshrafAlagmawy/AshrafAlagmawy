@@ -29,7 +29,16 @@ Focused on:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,html,css,scss,bootstrap,tailwind,react,nextjs,angular,dotnet,git,github,postman,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,html,css,scss,bootstrap,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,dotnet,git,github,postman,figma,linux" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
 <p align="center">
