@@ -17,7 +17,7 @@
 **Software Engineer | Full-Stack .NET & Frontend Developer**
 
 Computer Science graduate with hands-on experience in building **real-world web applications** using  
-**ASP.NET Core, Angular, React**, and modern frontend technologies.
+**ASP.NET Core, Angular, React**, and modern web technologies.
 
 Strong background in:
 - Problem Solving & Competitive Programming  
@@ -30,43 +30,14 @@ Actively contributing to GitHub and continuously improving technical depth.
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,html,css,scss,bootstrap,tailwind,react,nextjs,angular,dotnet,sqlserver,mysql,git,github,bitbucket,postman,figma,jira,linux,windows" />
 </p>
 
----
-
-### 🌐 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,react,nextjs,angular" />
-</p>
-
----
-
-### ⚙️ Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48"/>
 </p>
 
----
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql" />
-</p>
-
----
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman,figma,jira,linux,windows" />
-</p>
-
----
-
-### 🧠 Core Concepts
 <p align="center">
   <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Structures-0047AB?style=for-the-badge"/>
@@ -119,11 +90,15 @@ Actively contributing to GitHub and continuously improving technical depth.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshrafAlagmawy&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshrafAlagmawy&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshrafAlagmawy&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshrafAlagmawy&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafAlagmawy&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
