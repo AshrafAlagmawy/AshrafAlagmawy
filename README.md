@@ -42,10 +42,6 @@ Focused on:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Structures-0047AB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Algorithms-0A0A0A?style=for-the-badge"/>
