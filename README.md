@@ -10,13 +10,13 @@
 
 ## 👨‍💻 About Me
 
-**Integration & Backend Engineer**
+**Application & Integration Engineer**
 
-Integration & Backend Engineer with professional experience in designing, supporting, and maintaining **API-based integrations** and **backend services** using **ASP.NET Core, C#, SQL Server, and RESTful APIs**.
+Application Support & Integration Engineer focused on system monitoring, incident handling, and API integration support.
 
-Experienced in **payment gateway integrations**, including **merchant onboarding**, **checkout flows**, **Server-to-Server (S2S) communication**, **webhooks**, **callbacks**, and **end-to-end payment processing**. Skilled in analyzing **API requests, webhook payloads, and application logs** to diagnose issues and provide accurate technical solutions.
+Experienced in troubleshooting application and integration issues, analyzing logs, and resolving incidents within SLA. Skilled in investigating API errors, debugging transaction flows, and ensuring system stability and performance.
 
-Possess working knowledge of **Angular, React, TypeScript, and JavaScript** to support **end-to-end integration understanding**, with a primary focus on **backend systems, scalability, and reliable API integrations**.
+Hands-on experience with REST APIs, Postman, SQL Server, and backend services, with a strong focus on root cause analysis and continuous issue improvement.
 
 ---
 
